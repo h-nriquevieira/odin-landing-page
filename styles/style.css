@@ -1,0 +1,9 @@
+/* The next two rules are meant to prevent external resources that rely on content-box from failing to display correctly. Not necessary yet, but I believe it's good to practice doing it this way already. */ 
+
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
