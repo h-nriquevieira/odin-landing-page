@@ -207,15 +207,19 @@ img {
     color: #f9faf8d3
 }
 
-footer button {
+.cta-card button {
     border: 2px solid #f9faf8;
+    background-color: #3882f6;
     border-radius: 10px;
     margin: 0;
     padding: 8px 28px;
     align-self: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #f9faf8;
 }
 
-footer button:hover {
+.cta-card button:hover {
     background-color: #f9faf8;
     color: #3882f6;
 }
