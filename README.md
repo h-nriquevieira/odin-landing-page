@@ -5,6 +5,3 @@ HTML and CSS project from The Odin Project's Foundations course.
 A design was provided as a .png file, available at ./img/desired-outcome.png. The goal is to replicate it as close as possible.
 At this point, I haven't learned about responsive design yet, so I'm only targeting the desktop version.
 
-# Image credits
-
-header-image -> Thomes Svensson - https://www.pexels.com/@thomas-svensson-1505611
