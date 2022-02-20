@@ -71,6 +71,10 @@ a {
     color: #e5e7eb; 
 }
 
+a:hover {
+    border-bottom: 2px solid #e5e7eb;
+}
+
 .header-text {
     flex-direction: column;
     padding-right: 48px;
